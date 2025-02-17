@@ -30,7 +30,7 @@ Here, features which "going to"/"can" be implemented are listed below.
   - [ ] Account creation/login (using NextAuth.js)
   - [ ] Browse albums and images
   - [ ] Like (heart) images
-  - [ ]Mark albums/images as favorites
+  - [ ] Mark albums/images as favorites
   - [ ] Comment on images
   - [ ] Share images (via social share buttons or simply copyable links)
 
